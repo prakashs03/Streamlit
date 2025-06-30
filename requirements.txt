@@ -1,6 +1,0 @@
-streamlit
-pandas
-matplotlib
-seaborn
-plotly
-sqlite3  # SQLite is built-in in Python, no need to install separately
